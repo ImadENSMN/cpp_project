@@ -46,6 +46,9 @@ int main()
     printf("\n \n");
 
 
+    cout << 1 / 2;
+
+    system("pause");
 
 
 }
